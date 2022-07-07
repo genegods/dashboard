@@ -1,0 +1,15 @@
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.openIcon{
+    position:absolute;
+    left:68px;
+    top:20px;
+}
+.closeIcon{
+    position:absolute;
+    left:228px;
+    top:20px;
+}
